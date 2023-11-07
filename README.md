@@ -11,6 +11,7 @@
 ![screenshots](screenshots/3.png)
 
 Установка Git-Bash. Настройка и клонирование репозитория
+
 ![screenshots](screenshots/4.png)
 ![screenshots](screenshots/5.png)
 
@@ -26,26 +27,31 @@
 ![screenshots](screenshots/10.png)
 
 И для ветки *branch1*
+
 ![screenshots](screenshots/11.png)
 
 Посмотрены последние изменения для ветки *master* 
 ![screenshots](screenshots/12.png)
 
 И для ветки *branch1*
+
 ![screenshots](screenshots/13.png)
 
-Выполнено слияние ветки branch1 в ветку master
+Выполнено слияние ветки *branch1* в ветку *master* 
 ![screenshots](screenshots/14.png)
 
 Получен конфликт слияния
 ![screenshots](screenshots/15.png)
 
 Разрешенный конфликт слияния
+
 ![screenshots](screenshots/16.png)
 ![screenshots](screenshots/17.png)
 
 Удаление побочной ветки
+
 ![screenshots](screenshots/18.png)
 
 Подтверждение удаления
+
 ![screenshots](screenshots/19.png)
