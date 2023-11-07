@@ -55,3 +55,22 @@
 Подтверждение удаления
 
 ![screenshots](screenshots/19.png)
+
+Сделали несколько изменений в файле с коммитами
+![screenshots](screenshots/20.png)
+
+Откат последнего коммита
+![screenshots](screenshots/21.png)
+
+Создание ветки для отчета
+![screenshots](screenshots/22.png)
+
+История операций
+![screenshots](screenshots/23.png)
+![screenshots](screenshots/24.png)
+
+История операций в упрощенном варианте
+![screenshots](screenshots/25.png)
+
+## Вывод
+Изучены базовые возможности системы управления версиями, получен опыт работы с Git Api и опыт работы с локальным и удаленным репозиторием
